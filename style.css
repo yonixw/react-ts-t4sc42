@@ -1,0 +1,6 @@
+@import '~jqwidgets-scripts/jqwidgets/styles/jqx.base.css';
+@import '~jqwidgets-scripts/jqwidgets/styles/jqx.material-purple.css';
+
+h1, p {
+  font-family: Lato;
+}
